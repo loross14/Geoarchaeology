@@ -1,0 +1,126 @@
+[
+  {
+    "id": "geo-MUS-24-01",
+    "title": "MUS-24-01 geological core record",
+    "publisher": "Michigan Geological Survey / MGRRE",
+    "url": "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/1/76",
+    "URL": "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/1/76",
+    "locator": "Core catalogue and linked interval log",
+    "accessed": "2026-09-06",
+    "provenance_notes": "Inherited pilot extraction; original purpose Geological survey core; individual project purpose not populated in catalogue. No age model or prior archaeological reuse established.",
+    "additional_urls": [
+      "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/3/query?f=pjson&where=BoreholeID%3D%27MUS-24-01%27&outFields=*"
+    ]
+  },
+  {
+    "id": "geo-ALL-22-01",
+    "title": "ALL-22-01 geological core record",
+    "publisher": "Michigan Geological Survey / MGRRE",
+    "url": "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/1/8",
+    "URL": "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/1/8",
+    "locator": "Core catalogue and linked interval log",
+    "accessed": "2026-09-06",
+    "provenance_notes": "Inherited pilot extraction; original purpose Geological survey core; individual project purpose not populated in catalogue. No age model or prior archaeological reuse established.",
+    "additional_urls": [
+      "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/3/query?f=pjson&where=BoreholeID%3D%27ALL-22-01%27&outFields=*"
+    ]
+  },
+  {
+    "id": "geo-KAL-03-02",
+    "title": "KAL-03-02 geological core record",
+    "publisher": "Michigan Geological Survey / MGRRE",
+    "url": "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/1/28",
+    "URL": "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/1/28",
+    "locator": "Core catalogue and linked interval log",
+    "accessed": "2026-09-06",
+    "provenance_notes": "Inherited pilot extraction; original purpose Geological survey core; individual project purpose not populated in catalogue. No age model or prior archaeological reuse established.",
+    "additional_urls": [
+      "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/3/query?f=pjson&where=BoreholeID%3D%27KAL-03-02%27&outFields=*"
+    ]
+  },
+  {
+    "id": "geo-CA-15-01",
+    "title": "CA-15-01 geological core record",
+    "publisher": "Michigan Geological Survey / MGRRE",
+    "url": "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/1/3695",
+    "URL": "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/1/3695",
+    "locator": "Core catalogue and linked interval log",
+    "accessed": "2026-09-06",
+    "provenance_notes": "Inherited pilot extraction; original purpose Geological survey core; individual project purpose not populated in catalogue. No age model or prior archaeological reuse established.",
+    "additional_urls": [
+      "https://services1.arcgis.com/vFQXQuqACTPxa4Yc/arcgis/rest/services/MGS_MGRRE_Database_V3_PublicView/FeatureServer/3/query?f=pjson&where=BoreholeID%3D%27CA-15-01%27&outFields=*"
+    ]
+  },
+  {
+    "id": "geo-C03046",
+    "title": "C03046 geological core record",
+    "publisher": "Ohio Department of Natural Resources, Division of Geological Survey",
+    "url": "https://gis.ohiodnr.gov/Website/Geosurvey/core_pdf/C03046.pdf",
+    "URL": "https://gis.ohiodnr.gov/Website/Geosurvey/core_pdf/C03046.pdf",
+    "locator": "Core catalogue and linked interval log",
+    "accessed": "2026-09-06",
+    "provenance_notes": "Inherited pilot extraction; original purpose Regional aquifer characterization. No age model or prior archaeological reuse established.",
+    "additional_urls": [
+      "https://gis.ohiodnr.gov/arcgis/rest/services/DGS_Services/Strat_Data/MapServer/0/88"
+    ]
+  },
+  {
+    "id": "geo-C03051",
+    "title": "C03051 geological core record",
+    "publisher": "Ohio Department of Natural Resources, Division of Geological Survey",
+    "url": "https://gis.ohiodnr.gov/Website/Geosurvey/core_pdf/C03051.pdf",
+    "URL": "https://gis.ohiodnr.gov/Website/Geosurvey/core_pdf/C03051.pdf",
+    "locator": "Core catalogue and linked interval log",
+    "accessed": "2026-09-06",
+    "provenance_notes": "Inherited pilot extraction; original purpose Regional aquifer characterization. No age model or prior archaeological reuse established.",
+    "additional_urls": [
+      "https://gis.ohiodnr.gov/arcgis/rest/services/DGS_Services/Strat_Data/MapServer/0/133"
+    ]
+  },
+  {
+    "id": "geo-C03082",
+    "title": "C03082 geological core record",
+    "publisher": "Ohio Department of Natural Resources, Division of Geological Survey",
+    "url": "https://gis.ohiodnr.gov/Website/Geosurvey/core_pdf/C03082.pdf",
+    "URL": "https://gis.ohiodnr.gov/Website/Geosurvey/core_pdf/C03082.pdf",
+    "locator": "Core catalogue and linked interval log",
+    "accessed": "2026-09-06",
+    "provenance_notes": "Inherited pilot extraction; original purpose Regional lake-sediment and colluvium characterization; depth to bedrock and slope contribution. No age model or prior archaeological reuse established.",
+    "additional_urls": [
+      "https://gis.ohiodnr.gov/arcgis/rest/services/DGS_Services/Strat_Data/MapServer/0/689"
+    ]
+  },
+  {
+    "id": "geo-candidate-lally2016",
+    "title": "Late Pleistocene to Holocene Climate Variability Recorded in Lake Sediment of Silver Lake, Summit County, Ohio",
+    "publisher": "University of Akron / OhioLINK",
+    "url": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=akron1479127321585964&disposition=attachment",
+    "locator": "Abstract; section 3.9; printed pp.74,81\u201385; Table15; Figure39",
+    "accessed": "2026-09-06",
+    "provenance_notes": "Candidate only. A 13.5m composite sediment sequence has radiocarbon and correlated age control. Temporal normalization not admitted: recent dates mix years before 2016 with cal BP; old-carbon corrections and event correlation require audit.",
+    "URL": "https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=akron1479127321585964&disposition=attachment",
+    "status": "candidate_not_admitted"
+  },
+  {
+    "id": "geo-candidate-delcourt2002",
+    "title": "Holocene Lake-Effect Precipitation in Northern Michigan",
+    "publisher": "Quaternary Research / Cambridge University Press",
+    "url": "https://doi.org/10.1006/qres.2001.2308",
+    "locator": "Publisher abstract, vol.57(2),225\u2013233",
+    "accessed": "2026-09-06",
+    "provenance_notes": "Candidate only. Nelson Lake sediments indicate hydroclimate changes at 5300 and 3000 cal yr BP; full dating methods, uncertainty, coordinates and county association not verified in bounded search.",
+    "URL": "https://doi.org/10.1006/qres.2001.2308",
+    "status": "candidate_not_admitted"
+  },
+  {
+    "id": "geo-candidate-glover2011",
+    "title": "Deglaciation, basin formation and post-glacial climate change from a regional network of sediment core sites in Ohio and eastern Indiana",
+    "publisher": "Quaternary Research / College of Wooster repository",
+    "url": "https://openworks.wooster.edu/facpub/90/",
+    "locator": "Abstract; associated DOI 10.1016/j.yqres.2011.06.004",
+    "accessed": "2026-09-06",
+    "provenance_notes": "Candidate only. Independent geological sampling of 29 lake and bog sites; basal radiocarbon chronology. Full per-core coordinates, calibration and uncertainty tables were not retrieved; regional abstract ages cannot colour an individual county.",
+    "URL": "https://openworks.wooster.edu/facpub/90/",
+    "status": "candidate_not_admitted"
+  }
+]

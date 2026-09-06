@@ -1,0 +1,1 @@
+{"extent": {"xmin": -11500000, "ymin": 3800000, "xmax": -7500000, "ymax": 6800000, "spatialReference": {"wkid": 102100, "latestWkid": 3857}}, "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/export", "attribution": "Esri / USGS / SRTM / GTOPO30. Modern relief context."}

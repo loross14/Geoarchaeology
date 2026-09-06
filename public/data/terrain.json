@@ -1,0 +1,1 @@
+{"extent": {"xmin": -10500000, "ymin": 4400000, "xmax": -8500000, "ymax": 6200000, "spatialReference": {"wkid": 102100, "latestWkid": 3857}}, "width": 2000, "height": 1800, "source": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/export", "attribution": "Esri, USGS, SRTM, GTOPO30. Present-day relief; not reconstructed terrain."}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "mi-sanilac-dnr",
+    "title": "Sanilac Petroglyphs Historic State Park",
+    "publisher": "Michigan Department of Natural Resources",
+    "url": "https://www.michigan.gov/recsearch/parks/sanilac",
+    "accessed": "2026-09-06",
+    "locator": "Description; HTML map configuration pois: Sanilac Petroglyphs - Interpretive Hiking Trail",
+    "notes": "Official trail POI latitude43.656454 longitude-83.01777; no absolute chronology established from this source."
+  },
+  {
+    "id": "mi-fayette-dnr",
+    "title": "Fayette Historic Townsite",
+    "publisher": "Michigan History Center",
+    "url": "https://www.michigan.gov/mhc/museums/fayette",
+    "accessed": "2026-09-06",
+    "locator": "Opening historical description",
+    "notes": "1867\u20131891 is the iron-making community phase, not all human activity at this place."
+  },
+  {
+    "id": "mi-fayette-public-location",
+    "title": "Fayette Historic State Park and Harbor",
+    "publisher": "Pure Michigan / Michigan Economic Development Corporation",
+    "url": "https://www.michigan.org/property/fayette-historic-state-park-and-harbor",
+    "accessed": "2026-09-06",
+    "locator": "Marina coordinates in description",
+    "notes": "Public marina reference45\u00b043\u203218\u2033N86\u00b040\u203215\u2033W; not an excavation location."
+  },
+  {
+    "id": "mi-fayette-park-poi",
+    "title": "Fayette Historic State Park",
+    "publisher": "Michigan Department of Natural Resources",
+    "url": "https://www.michigan.gov/recsearch/parks/fayette",
+    "accessed": "2026-09-06",
+    "locator": "HTML map configuration pois: Fayette Furnace Hill Lodge",
+    "notes": "Public visitor lodge point45.719248,-86.662387; a park reference near the townsite, not an excavation location."
+  },
+  {
+    "id": "mi-fayette-management",
+    "title": "Cultural resource management plan, Fayette historic townsite",
+    "publisher": "Michigan Department of Natural Resources; hosted by US Government Publishing Office",
+    "url": "https://www.govinfo.gov/content/pkg/CZIC-e159-c85-1996/html/CZIC-e159-c85-1996.htm",
+    "accessed": "2026-09-06",
+    "locator": "Archaeology bibliography and resource management plan",
+    "notes": "Establishes archaeological research context; excavation depths and footprints have not been extracted."
+  },
+  {
+    "id": "nps-hocu-public-locations",
+    "title": "Directions: Hopewell Culture National Historical Park",
+    "publisher": "National Park Service",
+    "url": "https://www.nps.gov/hocu/planyourvisit/directions.htm",
+    "accessed": "2026-09-06",
+    "locator": "GPS Coordinates section",
+    "notes": "Published visitor GPS points converted from DMS to decimal degrees, rounded to0.001\u00b0. These are public reference points, not excavated features."
+  },
+  {
+    "id": "nps-mound-city",
+    "title": "Mound City Group",
+    "publisher": "National Park Service",
+    "url": "https://www.nps.gov/hocu/learn/historyculture/mound-city-group.htm",
+    "accessed": "2026-09-06",
+    "locator": "Ceremonial Gatherings; Camp Sherman; Introduction",
+    "notes": "Construction rangeAD1\u2013400; visible earthworks are modern restorations. Does not establish continuous residence."
+  },
+  {
+    "id": "nps-seip",
+    "title": "Seip Earthworks",
+    "publisher": "National Park Service",
+    "url": "https://www.nps.gov/hocu/learn/historyculture/seip-earthworks.htm",
+    "accessed": "2026-09-06",
+    "locator": "A Mysterious Culture; Central Mound; Seip Earthworks Today",
+    "notes": "AD1\u2013400 is a regional cultural attribution, not a measured occupation span for every part of Seip. Foundations remain underground despite surface losses."
+  },
+  {
+    "id": "nps-hopewell-group",
+    "title": "Hopewell Mound Group",
+    "publisher": "National Park Service",
+    "url": "https://www.nps.gov/hocu/learn/historyculture/hopewell-mound-group.htm",
+    "accessed": "2026-09-06",
+    "locator": "New to Science; Searching for Remnants",
+    "notes": "AD1\u2013400 cultural era; some mounds were excavated below ground level, but no numeric maximum depth extracted."
+  },
+  {
+    "id": "nps-hopeton",
+    "title": "Hopeton Earthworks",
+    "publisher": "National Park Service",
+    "url": "https://www.nps.gov/hocu/learn/historyculture/hopeton-earthworks.htm",
+    "accessed": "2026-09-06",
+    "locator": "Introduction; Grand & Purposeful Construction",
+    "notes": "Relative wording about2000years ago has not been normalized. LiDAR, magnetic survey and artifact mapping are explicitly documented; maximum tested depth unknown."
+  },
+  {
+    "id": "ohc-fort-hill",
+    "title": "Fort Hill Earthworks & Nature Preserve",
+    "publisher": "Ohio History Connection",
+    "url": "https://www.ohiohistory.org/visit/browse-historical-sites/fort-hill-earthworks-nature-preserve/",
+    "accessed": "2026-09-06",
+    "locator": "History",
+    "notes": "100BC\u2013AD500 is the stated Hopewell cultural range; not a laboratory date for the earthwork."
+  },
+  {
+    "id": "arc-fort-hill-location",
+    "title": "Fort Hill Trails",
+    "publisher": "Arc of Appalachia, site manager",
+    "url": "https://www.arcofappalachia.org/visit-fort-hill",
+    "accessed": "2026-09-06",
+    "locator": "Everything you need to know before you hike: Directions/GPS",
+    "notes": "Published public visitor GPSN39 6.2\u2032 W83 21.73\u2032. A different public guide gives another point; use only as approximate preserve reference, not navigation or a measured feature."
+  },
+  {
+    "id": "aot-fort-hill-location",
+    "title": "Fort Hill guide",
+    "publisher": "Ancient Ohio Trail, University of Cincinnati and Ohio State University partnership",
+    "url": "https://www.ancientohiotrail.org/support/pdfs/Fort_Hill.pdf",
+    "accessed": "2026-09-06",
+    "locator": "Page38, picnic area and location paragraph",
+    "notes": "Public guide GPS39.122193,-83.396375; approximate site visitor reference. Manager webpage publishes a discrepant point outside Highland County; excluded that point after spatial QA."
+  },
+  {
+    "id": "aot-provenance",
+    "title": "Ancient Ohio Trail Promotes Tourism",
+    "publisher": "Ohio History Connection",
+    "url": "https://www.ohiohistory.org/ancient-ohio-trail-promotes-tourism/",
+    "accessed": "2026-09-06",
+    "locator": "Travel the Ancient Ohio Trail",
+    "notes": "University-led partnership including Ohio History Connection and NPS; establishes institutional provenance of public guide."
+  },
+  {
+    "id": "census-counties-2024",
+    "title": "2024 Cartographic Boundary File: US County, 1:500,000",
+    "publisher": "US Census Bureau",
+    "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip",
+    "accessed": "2026-09-06",
+    "locator": "cb_2024_us_county_500k.shp; STATEFP26 and39",
+    "notes": "Public-domain US federal data; Census credit retained. NAD83/EPSG4269 converted to WGS84/EPSG4326 using pyproj; 171 valid geometries (83MI,88OH). Modern simplified boundaries, not ancient geography or survey-grade parcels."
+  },
+  {
+    "id": "census-boundary-documentation",
+    "title": "Cartographic Boundary Files",
+    "publisher": "US Census Bureau",
+    "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html",
+    "accessed": "2026-09-06",
+    "locator": "Overview",
+    "notes": "Simplified MAF/TIGER extracts intended for small-scale thematic mapping."
+  },
+  {
+    "id": "mi-norton-shpo",
+    "title": "Norton Mound Group",
+    "publisher": "Michigan State Historic Preservation Office / MEDC",
+    "url": "https://www.miplace.org/historic-preservation/programs-and-services/historic-landmarks/norton-mound-group/",
+    "accessed": "2026-09-06",
+    "locator": "Significant Dates",
+    "notes": "400BC\u2013AD400 site creation/use attribution. Public coordinates not independently verified in bounded search; candidate is county-only."
+  },
+  {
+    "id": "grpm-norton-2022",
+    "title": "Notice of Inventory Completion: Grand Rapids Public Museum",
+    "publisher": "Grand Rapids Public Museum statement published by National Park Service",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2022-08-18/pdf/2022-17769.pdf",
+    "accessed": "2026-09-06",
+    "locator": "Federal Register87(159), pp50882\u201350884, History and Description",
+    "notes": "Narrower100BC\u2013AD200 statement based on radiocarbon, diagnostic pottery and lithics. Individual radiocarbon determinations/calibration not extracted. Retain alongside broader SHPO attribution; do not average."
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "geo-candidate-lally2016",
+    "sourceIds": [
+      "geo-candidate-lally2016"
+    ],
+    "status": "blocked",
+    "blocker": "Candidate only. A 13.5m composite sediment sequence has radiocarbon and correlated age control. Temporal normalization not admitted: recent dates mix years before 2016 with cal BP; old-carbon corrections and event correlation require audit.",
+    "oldestBP": null,
+    "youngestBP": null,
+    "archaeological_reuse_status": "not_audited"
+  },
+  {
+    "id": "geo-candidate-delcourt2002",
+    "sourceIds": [
+      "geo-candidate-delcourt2002"
+    ],
+    "status": "blocked",
+    "blocker": "Candidate only. Nelson Lake sediments indicate hydroclimate changes at 5300 and 3000 cal yr BP; full dating methods, uncertainty, coordinates and county association not verified in bounded search.",
+    "oldestBP": null,
+    "youngestBP": null,
+    "archaeological_reuse_status": "not_audited"
+  },
+  {
+    "id": "geo-candidate-glover2011",
+    "sourceIds": [
+      "geo-candidate-glover2011"
+    ],
+    "status": "blocked",
+    "blocker": "Candidate only. Independent geological sampling of 29 lake and bog sites; basal radiocarbon chronology. Full per-core coordinates, calibration and uncertainty tables were not retrieved; regional abstract ages cannot colour an individual county.",
+    "oldestBP": null,
+    "youngestBP": null,
+    "archaeological_reuse_status": "not_audited"
+  }
+]

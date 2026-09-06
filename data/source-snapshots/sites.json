@@ -1,0 +1,225 @@
+[
+  {
+    "id": "sanilac-petroglyphs",
+    "name": "Sanilac Petroglyphs",
+    "countyId": "26151",
+    "county": "Sanilac",
+    "state": "MI",
+    "longitude": -83.018,
+    "latitude": 43.656,
+    "locationBasis": "Approximate public interpretive-trail POI from Michigan DNR HTML map; rounded to0.001\u00b0. Source:mi-sanilac-dnr. Not an excavation coordinate.",
+    "description": "Anishinaabe carvings interpreted at a state park jointly managed with the Saginaw Chippewa Indian Tribe. Dating remains unresolved in this import.",
+    "periods": [],
+    "sourceIds": [
+      "mi-sanilac-dnr"
+    ],
+    "investigationStatus": "Investigation depth and footprint not imported; unknown does not mean uninvestigated.",
+    "maximumInvestigatedDepthM": null,
+    "investigationFootprint": null
+  },
+  {
+    "id": "fayette-townsite",
+    "name": "Fayette Historic Townsite",
+    "countyId": "26041",
+    "county": "Delta",
+    "state": "MI",
+    "longitude": -86.662,
+    "latitude": 45.719,
+    "locationBasis": "Approximate public park visitor reference: DNR Furnace Hill Lodge POI45.719248,-86.662387, rounded to0.001\u00b0. Source:mi-fayette-park-poi. Nearby townsite reference, not an excavation coordinate.",
+    "description": "Historical industrial archaeology reference in the Upper Peninsula. The imported range describes the iron-making community phase.",
+    "periods": [
+      {
+        "oldestBP": 83,
+        "youngestBP": 59,
+        "original": "1867\u20131891",
+        "method": "Documentary historical phase",
+        "sourceId": "mi-fayette-dnr",
+        "timeBasis": "calendar BP before1950; source calendar attribution",
+        "scope": "Industrial operation"
+      }
+    ],
+    "sourceIds": [
+      "mi-fayette-dnr",
+      "mi-fayette-park-poi",
+      "mi-fayette-public-location",
+      "mi-fayette-management"
+    ],
+    "investigationStatus": "Archaeological work documented in management plan; maximum depth and extent not extracted.",
+    "maximumInvestigatedDepthM": null,
+    "investigationFootprint": null
+  },
+  {
+    "id": "mound-city",
+    "name": "Mound City Group",
+    "countyId": "39141",
+    "county": "Ross",
+    "state": "OH",
+    "longitude": -83.007,
+    "latitude": 39.374,
+    "locationBasis": "Approximate NPS public visitor GPS point39\u00b022\u203226.62\u2033N83\u00b000\u203226.14\u2033W, rounded to0.001\u00b0. Source:nps-hocu-public-locations. Not an excavation coordinate.",
+    "description": "Hopewell ceremonial earthwork complex; visible mounds and walls are modern restorations based on surviving foundations and research.",
+    "periods": [
+      {
+        "oldestBP": 1949,
+        "youngestBP": 1550,
+        "original": "A.D.1\u2013400",
+        "method": "NPS interpreted construction range",
+        "sourceId": "nps-mound-city",
+        "timeBasis": "calendar BP before1950; source calendar attribution",
+        "scope": "Construction, not continuous residence"
+      }
+    ],
+    "sourceIds": [
+      "nps-mound-city",
+      "nps-hocu-public-locations"
+    ],
+    "investigationStatus": "Extensive excavation and reconstruction documented; maximum tested depth and footprint not imported.",
+    "maximumInvestigatedDepthM": null,
+    "investigationFootprint": null
+  },
+  {
+    "id": "seip-earthworks",
+    "name": "Seip Earthworks",
+    "countyId": "39141",
+    "county": "Ross",
+    "state": "OH",
+    "longitude": -83.221,
+    "latitude": 39.242,
+    "locationBasis": "Approximate NPS public visitor GPS point39\u00b014\u203231.69\u2033N83\u00b013\u203215.98\u2033W, rounded to0.001\u00b0. Source:nps-hocu-public-locations. Not an excavation coordinate.",
+    "description": "Hopewell earthworks with a reconstructed central mound. NPS reports buried foundations surviving where walls are no longer visible.",
+    "periods": [
+      {
+        "oldestBP": 1949,
+        "youngestBP": 1550,
+        "original": "1\u2013400 A.D.",
+        "method": "NPS regional cultural attribution",
+        "sourceId": "nps-seip",
+        "timeBasis": "calendar BP before1950; source calendar attribution",
+        "scope": "Broad cultural attribution, not exact site occupation"
+      }
+    ],
+    "sourceIds": [
+      "nps-seip",
+      "nps-hocu-public-locations"
+    ],
+    "investigationStatus": "Excavation and partial restoration documented; maximum investigated depth and footprint not imported.",
+    "maximumInvestigatedDepthM": null,
+    "investigationFootprint": null
+  },
+  {
+    "id": "hopewell-mound-group",
+    "name": "Hopewell Mound Group",
+    "countyId": "39141",
+    "county": "Ross",
+    "state": "OH",
+    "longitude": -83.086,
+    "latitude": 39.361,
+    "locationBasis": "Approximate NPS public visitor GPS point39\u00b021\u203238.32\u2033N83\u00b005\u203208.65\u2033W, rounded to0.001\u00b0. Source:nps-hocu-public-locations. Not an excavation coordinate.",
+    "description": "Earthwork complex with surviving and levelled elements; documented past excavation below ground level is comparison evidence.",
+    "periods": [
+      {
+        "oldestBP": 1949,
+        "youngestBP": 1550,
+        "original": "A.D.1 to400",
+        "method": "NPS cultural-era attribution",
+        "sourceId": "nps-hopewell-group",
+        "timeBasis": "calendar BP before1950; source calendar attribution",
+        "scope": "Broad ceremonial-era attribution"
+      }
+    ],
+    "sourceIds": [
+      "nps-hopewell-group",
+      "nps-hocu-public-locations"
+    ],
+    "investigationStatus": "NPS reports some mounds excavated below ground level; numeric depth and investigation footprint unknown.",
+    "maximumInvestigatedDepthM": null,
+    "investigationFootprint": null
+  },
+  {
+    "id": "hopeton-earthworks",
+    "name": "Hopeton Earthworks",
+    "countyId": "39141",
+    "county": "Ross",
+    "state": "OH",
+    "longitude": -82.985,
+    "latitude": 39.379,
+    "locationBasis": "Approximate NPS public visitor GPS point39\u00b022\u203246.02\u2033N82\u00b059\u203204.65\u2033W, rounded to0.001\u00b0. Source:nps-hocu-public-locations. Not an excavation coordinate.",
+    "description": "Hopewell geometric earthworks. Imported source documents modern LiDAR, magnetic survey and artifact mapping. Relative age wording remains unnormalized.",
+    "periods": [],
+    "sourceIds": [
+      "nps-hopeton",
+      "nps-hocu-public-locations"
+    ],
+    "investigationStatus": "LiDAR, GPS artifact mapping and magnetic survey documented; maximum tested depth not imported.",
+    "maximumInvestigatedDepthM": null,
+    "investigationFootprint": null
+  },
+  {
+    "id": "fort-hill",
+    "name": "Fort Hill Earthworks",
+    "countyId": "39071",
+    "county": "Highland",
+    "state": "OH",
+    "longitude": -83.396,
+    "latitude": 39.122,
+    "locationBasis": "Approximate public visitor reference39.122193,-83.396375 from Ancient Ohio Trail institutional guide, rounded to0.001\u00b0. Source:aot-fort-hill-location. Manager webpage GPS differs and failed county containment check; retain discrepancy. Not an excavation coordinate.",
+    "description": "Hilltop ceremonial enclosure attributed to Hopewell people; cultural dates provide broad temporal relevance only.",
+    "periods": [
+      {
+        "oldestBP": 2049,
+        "youngestBP": 1450,
+        "original": "100 B.C.\u2013A.D.500",
+        "method": "Ohio History Connection cultural attribution",
+        "sourceId": "ohc-fort-hill",
+        "timeBasis": "calendar BP before1950; source calendar attribution",
+        "scope": "Cultural range, not a directly dated construction interval"
+      }
+    ],
+    "sourceIds": [
+      "ohc-fort-hill",
+      "aot-fort-hill-location",
+      "arc-fort-hill-location"
+    ],
+    "investigationStatus": "Investigation maximum depth and footprint not extracted; unknown.",
+    "maximumInvestigatedDepthM": null,
+    "investigationFootprint": null
+  },
+  {
+    "id": "norton-mound-group",
+    "name": "Norton Mound Group",
+    "countyId": "26081",
+    "county": "Kent",
+    "state": "MI",
+    "longitude": null,
+    "latitude": null,
+    "locationBasis": "County-only candidate. Primary public marker coordinates not verified; do not place a map dot.",
+    "description": "Hopewell ceremonial center. Two institutional sources give nested chronological ranges; retain both without treating them as separate occupations.",
+    "periods": [
+      {
+        "oldestBP": 2349,
+        "youngestBP": 1550,
+        "original": "400 B.C. to A.D.400",
+        "method": "Michigan SHPO site use attribution",
+        "sourceId": "mi-norton-shpo",
+        "timeBasis": "calendar BP before1950; source calendar attribution",
+        "scope": "Broad creation/use attribution"
+      },
+      {
+        "oldestBP": 2049,
+        "youngestBP": 1750,
+        "original": "100 B.C. to A.D.200",
+        "method": "Museum calendar summary informed by radiocarbon, pottery and lithics",
+        "sourceId": "grpm-norton-2022",
+        "timeBasis": "calendar BP before1950; source calendar attribution",
+        "scope": "Narrower museum attribution; raw dates/calibration not extracted"
+      }
+    ],
+    "sourceIds": [
+      "mi-norton-shpo",
+      "grpm-norton-2022"
+    ],
+    "investigationStatus": "Excavations documented; tested maximum depth and footprint not imported.",
+    "maximumInvestigatedDepthM": null,
+    "investigationFootprint": null
+  }
+]
